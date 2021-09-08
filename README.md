@@ -12,3 +12,5 @@ Tareas de Minería de Datos
 [Práctica 1 - Limpieza de Datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Ej_Limpieza_Equipo10.ipynb)
 
 [Avance 1 PIA](https://github.com/JesusValGzz/Mineria_de_Datos/blob/main/Avance1_PIA_Equipo10.ipynb)
+
+[Presentación Árboles de Decisión](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Presentacion_%C3%81rboles%20de%20Decisi%C3%B3n_Equipo10.pdf)
