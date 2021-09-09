@@ -14,3 +14,7 @@ Tareas de Minería de Datos
 [Avance 1 PIA](https://github.com/JesusValGzz/Mineria_de_Datos/blob/main/Avance1_PIA_Equipo10.ipynb)
 
 [Presentación Árboles de Decisión](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Presentacion_%C3%81rboles%20de%20Decisi%C3%B3n_Equipo10.pdf)
+
+  -[Código de un ejemplo](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/C%C3%B3digo_%C3%81rboles%20de%20decisi%C3%B3n_Equipo%2010.ipynb)
+  
+  -[Preguntas de interés](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/Preguntas_Arboles%20de%20decision_Eq%2310.pdf)
