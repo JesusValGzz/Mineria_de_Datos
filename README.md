@@ -18,3 +18,7 @@ Tareas de Minería de Datos
   - [Código de un ejemplo](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/C%C3%B3digo_%C3%81rboles%20de%20decisi%C3%B3n_Equipo%2010.ipynb)
   
   - [Preguntas de interés](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/Preguntas_Arboles%20de%20decision_Eq%2310.pdf)
+
+ - [Notebook final PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/PIA_002_Equipo10_Bitcoin.ipynb)
+
+- [Póster PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Poster_G002_Equipo10_Bitcoin.pdf)
